@@ -1,7 +1,7 @@
 {
     "app-id" : "com.vixalien.sticky",
     "runtime" : "org.gnome.Platform",
-    "runtime-version" : "43",
+    "runtime-version" : "44",
     "sdk" : "org.gnome.Sdk",
     "sdk-extensions" : [
         "org.freedesktop.Sdk.Extension.node18"
@@ -55,8 +55,8 @@
                 },
                 {
                     "type" : "archive",
-                    "sha256": "ccd56a1b32a11cac80267e63dec32eb8d577a87a3ba8bb686d8fe24565f4c6e4",
-                    "url" : "https://github.com/vixalien/sticky/archive/refs/tags/v0.1.7.zip"
+                    "sha256": "1356e307883acc29ecba6df4413e9a8fd946eb091082f1fb6cf716557e7136d3",
+                    "url" : "https://github.com/vixalien/sticky/archive/refs/tags/v0.1.8.zip"
                 }
             ]
         }

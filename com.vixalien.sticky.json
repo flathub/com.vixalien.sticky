@@ -55,8 +55,8 @@
                 },
                 {
                     "type" : "archive",
-                    "sha256": "a867936944eed986543d2dc929a646a1060fcd3936afb56ffd8e07b1c253188a",
-                    "url" : "https://github.com/vixalien/sticky/archive/refs/tags/v0.1.5.zip"
+                    "sha256": "ccd56a1b32a11cac80267e63dec32eb8d577a87a3ba8bb686d8fe24565f4c6e4",
+                    "url" : "https://github.com/vixalien/sticky/archive/refs/tags/v0.1.7.zip"
                 }
             ]
         }

@@ -54,9 +54,10 @@
                     "commands": ["echo yarn-offline-mirror \"/app/yarn-mirror\" > /app/.yarnrc"]
                 },
                 {
-                    "type" : "archive",
-                    "sha256": "e9fca1cc749862322b0f5f848a46627dcdd1cd812dbbd59b9ff31de83589d2a2",
-                    "url" : "https://github.com/vixalien/sticky/archive/refs/tags/v0.1.9.zip"
+                    "type": "git",
+                    "url": "https://github.com/sonnyp/Workbench.git",
+                    "tag": "v0.1.10",
+                    "commit": "9b8536aa8ac176721399dfa343e9393a57a4c75f"
                 }
             ]
         }

@@ -58,8 +58,8 @@
         {
           "type": "git",
           "url": "https://github.com/vixalien/sticky.git",
-          "tag": "v0.1.10",
-          "commit": "9b8536aa8ac176721399dfa343e9393a57a4c75f"
+          "tag": "v0.1.11",
+          "commit": "2e5bf52aa6ebd7365aa1fb2439ef90806a56a578"
         }
       ]
     }

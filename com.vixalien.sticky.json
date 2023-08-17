@@ -46,7 +46,7 @@
         {
           "type": "git",
           "url": "https://gitlab.gnome.org/GNOME/libadwaita.git",
-          "commit": "a97fa1541229271610ce47a4a1dcea4c0340b84c"
+          "commit": "180418315cc7ae09404cd605e7998190a1306f7d"
         }
       ],
       "modules": [
@@ -67,7 +67,7 @@
             {
               "type": "git",
               "url": "https://github.com/ximion/appstream.git",
-              "commit": "e4a7daefca9dcd600eea895332b8ba598cacd694"
+              "commit": "1ee6af91310f9deb47f3863a7a7ffb22c46bcce6"
             }
           ],
           "modules": [
@@ -95,7 +95,7 @@
                 {
                   "type": "git",
                   "url": "https://github.com/hughsie/libxmlb.git",
-                  "commit": "a6cac6a715d57c393bbddee4d0381ad943341af9"
+                  "commit": "5bafa30bac46366da53d152ac72b787b8367d5f2"
                 }
               ]
             }
@@ -146,7 +146,7 @@
             {
               "type": "git",
               "url": "https://gitlab.gnome.org/GNOME/gtk.git",
-              "commit": "4695f583c1cfbb100a0c19c591b859ae04436c8b"
+              "commit": "fef69881a7bac60b6a89c8b5cd9fd0f36372ee21"
             }
           ]
         }
@@ -181,8 +181,7 @@
         {
           "type": "git",
           "url": "https://github.com/vixalien/sticky.git",
-          "tag": "v0.2.3",
-          "commit": "c465a58dd78a8fe8b0b1f6ff8012eab645381b7a"
+          "tag": "v0.2.4"
         }
       ]
     }

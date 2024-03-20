@@ -1,7 +1,7 @@
 {
   "id": "com.vixalien.sticky",
   "runtime": "org.gnome.Platform",
-  "runtime-version": "45",
+  "runtime-version": "46",
   "sdk": "org.gnome.Sdk",
   "sdk-extensions": [
     "org.freedesktop.Sdk.Extension.node18"
@@ -62,7 +62,7 @@
         {
           "type": "git",
           "url": "https://github.com/vixalien/sticky.git",
-          "tag": "v0.2.4"
+          "tag": "v0.2.5"
         }
       ]
     }

@@ -1,7 +1,7 @@
 {
   "id": "com.vixalien.sticky",
   "runtime": "org.gnome.Platform",
-  "runtime-version": "48",
+  "runtime-version": "50",
   "sdk": "org.gnome.Sdk",
   "sdk-extensions": [
     "org.freedesktop.Sdk.Extension.node20"
@@ -21,15 +21,6 @@
     "--env=GJS_DISABLE_JIT=1"
   ],
   "cleanup": [
-    "/include",
-    "/lib/pkgconfig",
-    "/man",
-    "/share/doc",
-    "/share/gtk-doc",
-    "/share/man",
-    "/share/pkgconfig",
-    "*.la",
-    "*.a",
     "/yarn-mirror"
   ],
   "modules": [
@@ -56,7 +47,8 @@
         {
           "type": "git",
           "url": "https://github.com/vixalien/sticky.git",
-          "tag": "v0.2.7"
+          "tag": "v0.2.7",
+          "commit": "3d4e2416b36ee248bc96b2b457e27d9b011f0d3e"
         }
       ]
     }
